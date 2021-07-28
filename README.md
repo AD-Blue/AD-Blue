@@ -5,7 +5,8 @@
 
 
 ## 🔭 My GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AD-Blue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AD-Blue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AD-Blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to reach me
 You can send me an email at **aasdimaranan@gmail.com** or connect with me on [![LinkedIn](https://user-images.githubusercontent.com/17509638/127301817-84a21949-92fc-4f36-a4d4-b63f5e16407f.png)](https://www.linkedin.com/in/aries-dimaranan-5664b91a1)
