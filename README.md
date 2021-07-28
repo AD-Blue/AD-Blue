@@ -3,7 +3,7 @@
 
 
 ## 📫 How to reach me
-You can send me an email at **aasdimaranan@gmail.com** or connect with me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/aries-dimaranan-5664b91a1)
+You can send me an email at **aasdimaranan@gmail.com** or connect with me on [![LinkedIn](https://user-images.githubusercontent.com/17509638/127301817-84a21949-92fc-4f36-a4d4-b63f5e16407f.png)](https://www.linkedin.com/in/aries-dimaranan-5664b91a1)
 
 <!--
 **AD-Blue/AD-Blue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
