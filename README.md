@@ -1,5 +1,6 @@
 # Hi there 👋
-### I'm Aries, a computer science student at the University of Calgary.
+### I'm Aries, a full-stack developer currently pursuing a degree in Computer Science.
+I love learning new tech and making cool things. 
 
 <br/>
 <br/>
