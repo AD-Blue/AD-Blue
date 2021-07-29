@@ -1,6 +1,5 @@
 # Hi there 👋
 ### I'm Aries, a full-stack developer currently pursuing a degree in Computer Science.
-I love learning new tech and making cool things. 
 
 <br/>
 <br/>
@@ -41,6 +40,7 @@ I love learning new tech and making cool things.
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
 <br/>
 <br/>
