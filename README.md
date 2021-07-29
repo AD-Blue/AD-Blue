@@ -14,7 +14,7 @@
 
 ## 🌟 My favorite tech to work with
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node-dot-js)
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node-js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=express)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
