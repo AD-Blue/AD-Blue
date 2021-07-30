@@ -41,6 +41,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
 <br/>
 <br/>
