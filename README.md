@@ -4,6 +4,11 @@
 <br/>
 <br/>
 
+## ✨ My Experience
+I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a full stack developer intern, mainly using React, NextJS, Typescript, and MongoDB.
+
+<br/>
+<br/>
 
 ## 🔭 My GitHub stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AD-Blue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
