@@ -21,22 +21,22 @@
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakra-ui&logoColor=white&style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&style=flat-square)
-
-<br/>
-<br/>
-
-## 🌱 What I'm currently learning/improving
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&style=flat-square)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white&style=flat-square)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&style=flat-square)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
 <br/>
 <br/>
 
-## 🤔 What I want to learn
+## 🌱 What I'm currently learning/improving
+![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?logo=graphql&logoColor=white&style=flat-square)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?logo=apollo-graphql&style=flat-square)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+<br/>
+<br/>
+
+## 🤔 What I want to learn
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square)
