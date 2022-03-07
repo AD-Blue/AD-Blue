@@ -38,6 +38,7 @@ I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a ful
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 
 <br/>
 <br/>
@@ -45,7 +46,6 @@ I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a ful
 ## 🤔 What I want to learn
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat-square)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 
 <br/>
