@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Aries, a full-stack developer currently pursuing a degree in Computer Science.
+### I'm Aries, a full-stack developer
 
 <br/>
 <br/>
