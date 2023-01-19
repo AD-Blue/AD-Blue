@@ -11,7 +11,7 @@ I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a ful
 <br/>
 
 ## 🔭 My GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AD-Blue&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats?&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AD-Blue&theme=tokyonight&count_private=false)](https://github.com/anuraghazra/github-readme-stats?&count_private=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AD-Blue&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
