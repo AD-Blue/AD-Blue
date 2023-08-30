@@ -56,4 +56,4 @@ I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a ful
 You can send me an email at **aasdimaranan@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/aries-dimaranan-5664b91a1/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
 
-### 💬 Lets talk about, sim racing, video games, and generally poor financial decisions we've made
+### 💬 Lets talk about sim racing, video games, and other generally poor financial decisions we've made
