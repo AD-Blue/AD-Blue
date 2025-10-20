@@ -5,7 +5,7 @@
 <br/>
 
 ## ✨ My Experience
-I'm currently working at [Neo Financial](https://www.neofinancial.com/) as a full stack developer. I'm mainly working with React, NextJS, Typescript, GraphQL, and MongoDB.
+I've previously worked at [Neo Financial](https://www.neofinancial.com/) as a full stack developer. I mainly worked with React, NextJS, Typescript, GraphQL, and MongoDB.
 
 <br/>
 <br/>
