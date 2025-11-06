@@ -5,6 +5,8 @@
 <br/>
 
 ## ✨ My Experience
+I'm currently working at [Clio](https://www.clio.com/ca/) as a full stack developer. I'm working with Ruby on Rails and React.
+
 I've previously worked at [Neo Financial](https://www.neofinancial.com/) as a full stack developer. I mainly worked with React, NextJS, Typescript, GraphQL, and MongoDB.
 
 <br/>
