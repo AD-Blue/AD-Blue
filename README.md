@@ -34,7 +34,7 @@ I've previously worked at [Neo Financial](https://www.neofinancial.com/) as a fu
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 
 ## 🌱 What I'm currently learning/improving
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-CE422B?logo=rust&logoColor=white&style=flat-square)
 
 <br/>
 <br/>
